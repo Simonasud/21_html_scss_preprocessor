@@ -1,0 +1,9 @@
+
+body {
+  background-color: transparentize($primary, 0.6);
+  h1 {
+    font-size: $fontLarge;
+    font-weight: normal;
+    color: $primary;
+  }
+}
